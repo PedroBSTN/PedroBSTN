@@ -12,6 +12,8 @@
 
 "Building projects today, becoming a Software Engineer tomorrow."
 
-[<img width="4032" height="590" alt="image" src="https://github.com/user-attachments/assets/79a7376c-2790-4f3e-bac7-3915ab7e0c71" />](https://github-readme-stats.vercel.app/api?username=PedroBSTN&show_icons=true&theme=tokyonight)
+<img width="4032" height="1068" alt="image" src="https://github.com/user-attachments/assets/ad988789-5de9-4d63-a2fd-deef555bfdfa" /><img width="4032" height="1068" alt="image" src="https://github.com/user-attachments/assets/e21ddf23-a03b-41d1-8617-a1c9c67d1c11" />
+
+
 
 "Small steps every day lead to big results."
