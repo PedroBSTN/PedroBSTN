@@ -12,7 +12,8 @@
 
 "Building projects today, becoming a Software Engineer tomorrow."
 
-<img width="4032" height="1068" alt="image" src="https://github.com/user-attachments/assets/ad988789-5de9-4d63-a2fd-deef555bfdfa" /><img width="4032" height="1068" alt="image" src="https://github.com/user-attachments/assets/e21ddf23-a03b-41d1-8617-a1c9c67d1c11" />
+<img width="3157" height="2268" alt="image" src="https://github.com/user-attachments/assets/5e7604d7-9a8d-4d59-a903-cafffb24880e" />
+
 
 
 
