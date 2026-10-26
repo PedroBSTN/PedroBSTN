@@ -12,7 +12,8 @@
 
 "Building projects today, becoming a Software Engineer tomorrow."
 
-<img width="1997" height="2268" alt="image" src="https://github.com/user-attachments/assets/ef8e2e73-8d3a-47aa-82b7-f671f1e33e93" />
+<img width="4032" height="590" alt="image" src="https://github.com/user-attachments/assets/c1e5c243-9a11-4689-8c2a-3f98512d9189" />
+
 
 
 "Small steps every day lead to big results."
