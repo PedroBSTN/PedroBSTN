@@ -12,7 +12,6 @@
 
 "Building projects today, becoming a Software Engineer tomorrow."
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
-
+<img width="4032" height="590" alt="image" src="https://github.com/user-attachments/assets/79a7376c-2790-4f3e-bac7-3915ab7e0c71" />
 
 "Small steps every day lead to big results."
