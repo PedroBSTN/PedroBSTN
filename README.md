@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pedro 👋
 
-<!--
-**PedroBSTN/PedroBSTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Brazilian Developer
 
-Here are some ideas to get you started:
+🎂 16 years old
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Python & Java
+
+🚀 Building projects and improving my coding skills every day
+
+🎯 Dream: Become a Software Engineer
+
+"Building projects today, becoming a Software Engineer tomorrow."
+
+📊 GitHub Stats
+
+Stats
+
+Top Languages
+
+"Small steps every day lead to big results."
