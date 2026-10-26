@@ -12,10 +12,6 @@
 
 "Building projects today, becoming a Software Engineer tomorrow."
 
-📊 GitHub Stats
-
-Stats
-
-Top Languages
+<img width="2268" height="2268" alt="image" src="https://github.com/user-attachments/assets/b6ac4bc3-aed0-42b1-b54a-4809b64d4aa4" />
 
 "Small steps every day lead to big results."
