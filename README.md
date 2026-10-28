@@ -9,7 +9,21 @@ I'm currently studying Python and Java, creating projects, and continuously impr
 
 "Small steps every day lead to big results."
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/196cebf0-014d-49a0-8ec9-cf4df73c02e0" />
+<table>
+<tr>
+<td>
+
+<img src="SEU_LINK_DO_GARCHOMP" width="250px">
+
+</td>
+
+<td>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBSTN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+</td>
+</tr>
+</table>
 
 ![Snake animation](https://raw.githubusercontent.com/PedroBSTN/PedroBSTN/output/github-contribution-grid-snake.svg)
 
