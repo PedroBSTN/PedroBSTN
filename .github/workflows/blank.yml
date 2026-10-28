@@ -1,4 +1,4 @@
-name: PedroBSTN
+name: Snake
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: SEU_USUARIO
+          github_user_name: PedroBSTN
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
