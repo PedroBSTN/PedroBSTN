@@ -13,7 +13,7 @@ I'm currently studying Python and Java, creating projects, and continuously impr
 <tr>
 <td>
 
-<img src="SEU_LINK_DO_GARCHOMP" width="250px">
+<img src="https://github.com/user-attachments/assets/196cebf0-014d-49a0-8ec9-cf4df73c02e0" width="250px">
 
 </td>
 
