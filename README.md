@@ -1,3 +1,4 @@
+<img width="1280" height="1278" alt="language-2024210_1280" src="https://github.com/user-attachments/assets/8f9fe6e1-4de7-4c5a-befe-429637319b74" />
 # Hi! I'm Pedro Benjamin, a 16-year-old developer from Brazil. 🇧🇷
 
 I'm currently studying Python and Java, creating projects, and continuously improving my programming skills. I enjoy learning new technologies and turning ideas into working applications.
@@ -19,7 +20,8 @@ I'm currently studying Python and Java, creating projects, and continuously impr
 
 <td>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBSTN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="1280" height="1278" alt="image" src="https://github.com/user-attachments/assets/6b659079-289a-4e4c-aa0d-61fba9beedf7" />
+
 
 </td>
 </tr>
