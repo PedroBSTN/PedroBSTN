@@ -21,6 +21,13 @@ I'm currently studying Python and Java, creating projects, and continuously impr
 
 <img width="250" height="258" alt="image" src="https://github.com/user-attachments/assets/6b659079-289a-4e4c-aa0d-61fba9beedf7" />
 
+</td>
+
+<td>
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e8279334-bc7f-439e-a175-1406f73d8be9" />
+
+
 
 </td>
 </tr>
