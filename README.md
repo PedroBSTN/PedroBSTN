@@ -1,11 +1,14 @@
 # Hi! I'm Pedro Benjamin, a 16-year-old developer from Brazil. 🇧🇷
 
-I'm currently studying Python and Java, creating projects, and continuously improving my programming skills. I enjoy learning new technologies and turning ideas into working applications.
+I'm passionate about technology and software development. Currently, I'm studying **Python** and **Java**, building projects, and continuously improving my programming skills.
 
-🔹 Python Developer
-🔹 Java Learner
-🔹 Open to learning and collaboration
-🔹 Passionate about technology
+I enjoy learning new technologies, solving problems, and transforming ideas into real applications.
+
+- 🐍 Learning Python development
+- ☕ Studying Java and Object-Oriented Programming
+- 📚 Always learning new technologies
+- 🤝 Open to collaboration and new experiences
+- 💡 Passionate about creating useful solutions
 
 "Small steps every day lead to big results."
 
