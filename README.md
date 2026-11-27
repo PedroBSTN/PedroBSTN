@@ -71,5 +71,6 @@ A destination that inspires ambitious ideas, bold projects, and a lifelong commi
 
 > "The future belongs to those who never stop learning."
 
-<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/3938cee7-acef-4e0d-864c-8f3c3039faa9" />
+<img width="612" height="314" alt="image" src="https://github.com/user-attachments/assets/3c1b8dc8-359b-4fd8-9e00-a8fffa79c27f" />
+
 
