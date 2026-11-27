@@ -50,6 +50,9 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Pedro+Benjamin;Python+Developer;Java+Learner;Always+Building+Something+New" />
+</p>
 
 
 
