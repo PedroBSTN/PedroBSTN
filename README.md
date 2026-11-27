@@ -56,5 +56,5 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
   <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
 </p>
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/garchomp-mega.gif" height="180" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" height="180" />
 
