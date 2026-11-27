@@ -38,4 +38,12 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
 
 ![Snake animation](https://raw.githubusercontent.com/PedroBSTN/PedroBSTN/output/github-contribution-grid-snake.svg)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBSTN&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBSTN&layout=compact&theme=tokyonight" />
+</p>
+
+
 
