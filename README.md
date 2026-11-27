@@ -21,13 +21,13 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
 <tr>
 <td>
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/garchomp.gif" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/garchomp.gif" width="250" />
 
 </td>
 
 <td>
 
-<img width="250" height="258" alt="image" src="https://github.com/user-attachments/assets/6b659079-289a-4e4c-aa0d-61fba9beedf7" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6b659079-289a-4e4c-aa0d-61fba9beedf7" />
 
 </td>
 
