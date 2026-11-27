@@ -72,14 +72,11 @@ A destination that inspires ambitious ideas, bold projects, and a lifelong commi
 > "The future belongs to those who never stop learning."
 
 </div>
-<br>
 
 <p align="center">
-  <img
-    src="URL_DA_IMAGEM"
-    width="700"
-    alt="MIT Dome"
-    style="border-radius: 12px;"
-  />
+  <img src="URL_DA_IMAGEM" width="750">
 </p>
 
+<p align="center">
+  <i>Massachusetts Institute of Technology, Cambridge, Massachusetts.</i>
+</p>
