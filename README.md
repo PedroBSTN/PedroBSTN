@@ -1,4 +1,4 @@
-# Hi! I'm Pedro Benjamin, a 16-year-old developer from Brazil. 🇧🇷
+# Hi! I'm Pedro Benjamin, a young developer from Brazil. 🇧🇷
 
 I'm passionate about technology and software development. Currently, I'm studying **Python** and **Java**, building projects, and continuously improving my programming skills.
 
