@@ -56,4 +56,11 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
   <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
 </p>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="180">
+## 🎓 Dream
+
+MIT is more than a university. To me, it represents innovation, curiosity, and the pursuit of excellence in technology.
+
+Every project, every challenge, and every new skill learned is a step toward that goal.
+
+> "The future belongs to those who never stop learning."
+
