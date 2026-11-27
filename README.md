@@ -21,7 +21,7 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
 <tr>
 <td>
 
-<img src="https://github.com/user-attachments/assets/196cebf0-014d-49a0-8ec9-cf4df73c02e0" width="250px">
+<img src="https://play.pokemonshowdown.com/sprites/ani/garchomp.gif" />
 
 </td>
 
@@ -55,6 +55,6 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
 </p>
-<img src="https://play.pokemonshowdown.com/sprites/ani/garchomp.gif" />
+
 
 
