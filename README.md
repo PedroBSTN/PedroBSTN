@@ -56,4 +56,4 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
   <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
 </p>
 
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="180">
