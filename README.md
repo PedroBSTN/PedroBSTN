@@ -58,11 +58,27 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
 
 ## 🎓 Dream
 
+<table>
+<tr>
+
+<td>
+
+### Massachusetts Institute of Technology
+
 MIT is more than a university. To me, it represents innovation, curiosity, and the pursuit of excellence in technology.
 
 Every project, every challenge, and every new skill learned is a step toward that goal.
 
 > "The future belongs to those who never stop learning."
 
+</td>
 
+<td align="center" width="220">
+
+<img src="https://play.pokemonshowdown.com/sprites/ani/porygon-z.gif" width="180">
+
+</td>
+
+</tr>
+</table>
 <img src="https://play.pokemonshowdown.com/sprites/ani/porygonz.gif" height="180">
