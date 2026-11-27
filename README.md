@@ -62,7 +62,7 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
   <img
     align="right"
     src="https://play.pokemonshowdown.com/sprites/ani/porygon-z.gif"
-    width="180"
+    width="100"
   />
 
 MIT represents innovation, research, and the constant pursuit of technological excellence.
