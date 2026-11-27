@@ -75,10 +75,8 @@ Every project, every challenge, and every new skill learned is a step toward tha
 
 <td align="center" width="220">
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/porygon-z.gif" width="180">
+<img src="https://play.pokemonshowdown.com/sprites/ani/porygon-z.gif" width="150">
 
 </td>
 
-</tr>
-</table>
-<img src="https://play.pokemonshowdown.com/sprites/ani/porygonz.gif" height="180">
+
