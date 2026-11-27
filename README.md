@@ -71,12 +71,5 @@ A destination that inspires ambitious ideas, bold projects, and a lifelong commi
 
 > "The future belongs to those who never stop learning."
 
-</div>
+<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/3938cee7-acef-4e0d-864c-8f3c3039faa9" />
 
-<p align="center">
-  <img src="URL_DA_IMAGEM" width="750">
-</p>
-
-<p align="center">
-  <i>Massachusetts Institute of Technology, Cambridge, Massachusetts.</i>
-</p>
