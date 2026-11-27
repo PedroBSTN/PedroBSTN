@@ -64,3 +64,6 @@ Every project, every challenge, and every new skill learned is a step toward tha
 
 > "The future belongs to those who never stop learning."
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" height="120">
+
