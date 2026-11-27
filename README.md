@@ -56,11 +56,4 @@ I enjoy learning new technologies, solving problems, and transforming ideas into
   <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
 </p>
 
-<table>
-<tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/garchomp.gif" height="180"></td>
-<td><img src="https://skillicons.dev/icons?i=python" height="180"></td>
-<td><img src="https://skillicons.dev/icons?i=java" height="180"></td>
-</tr>
-</table>
-
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
